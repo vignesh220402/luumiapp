@@ -13,8 +13,8 @@ function BasicExample() {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ml-auto">
                         <Link className='link' to='/'>Home</Link>
-                        <Link className='link' to='/services'>Services</Link>
-                        <Link className='link' to='/about'>About</Link>
+                        <Link className='link' to='/services'>About</Link>
+                        <Link className='link' to='/about'>Services</Link>
                         <Link className='link' to='/contact'>Contact</Link>
                         <Link className='link' to='/blogsection'>Blog</Link>
                     </Nav>
